@@ -29,7 +29,7 @@ var config = {
      */
     imgs: {
         "老伏小可爱": "./imgs/WechatIMG15.jpeg",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "爱你": "./imgs/love.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
